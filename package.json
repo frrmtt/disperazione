@@ -1,0 +1,31 @@
+{
+  "name": "disperazione",
+  "version": "1.0.0",
+  "description": "provo a crearne una da qua non so più che fare",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "verbose": true,
+    "collectCoverage": true
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frrmtt/disperazione.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frrmtt/disperazione/issues"
+  },
+  "homepage": "https://github.com/frrmtt/disperazione#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "supertest": "^3.4.2"
+  }
+}
